@@ -1,0 +1,30 @@
+html * {
+  font-family: Arial !important;
+}
+.container {
+  width: 500px;
+  margin: auto;
+  margin-top: 30px;
+}
+.url-field {
+  padding: 6px;
+  width: 350px;
+  border: 1px solid #80808052;
+  border-radius: 2px;
+}
+.action-btn {
+  padding: 6px;
+  background: #4f8fd3;
+  color: white;
+  width: 120px;
+  border-radius: 3px;
+}
+p {
+  font-size: 22px;
+  text-align: center;
+}
+#link {
+  margin-top: 18px;
+  display: inherit;
+  color: #1f59ff;
+}
